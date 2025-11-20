@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is my new app.
+        This is my new app. and this will be very big
       </p>
     </>
   )
